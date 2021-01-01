@@ -1,0 +1,700 @@
+- shuffling. . .
+C3 -- D9
+kitty: 1,20
+C7 -- H4
+kitty: 5,28
+S11 -- D10
+kitty: 48,21
+C8 -- D13
+kitty: 6,24
+D2 -- S6
+kitty: 13,43
+C4 -- S8
+kitty: 2,45
+C9 -- S9
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+H14 -- H9
+kitty: 7,46,10,51,31,25,27,42,38,33
+D11 -- D7
+kitty: 22,18
+C10 -- H5
+kitty: 8,29
+H11 -- D4
+kitty: 35,15
+H12 -- H10
+kitty: 36,34
+S10 -- C2
+kitty: 47,0
+H6 -- S4
+kitty: 30,41
+S3 -- C5
+kitty: 40,3
+D8 -- S7
+kitty: 19,44
+C13 -- S12
+kitty: 11,49
+D5 -- S13
+kitty: 16,50
+H13 -- D3
+kitty: 37,14
+D6 -- C14
+kitty: 17,12
+H8 -- H2
+kitty: 32,26
+S2 -- D12
+kitty: 39,23
+C11 -- C6
+kitty: 9,4
+- shuffling. . . 2
+- time for an update!
+--- Player One score: 36
+--- Player Two score: 16
+H6 -- D2
+kitty: 30,13
+S4 -- D5
+kitty: 41,16
+C13 -- S6
+kitty: 11,43
+H3 -- D6
+kitty: 27,17
+H10 -- C14
+kitty: 34,12
+D11 -- C3
+kitty: 22,1
+D7 -- S8
+kitty: 18,45
+S7 -- S13
+kitty: 44,50
+H13 -- C5
+kitty: 37,3
+C9 -- D9
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+H12 -- D13
+kitty: 7,20,33,49,38,2,40,23,36,24
+S10 -- S2
+kitty: 47,39
+S11 -- C8
+kitty: 48,6
+- shuffling. . .
+- time for an update!
+--- Player One score: 32
+--- Player Two score: 20
+H11 -- C14
+kitty: 35,12
+C12 -- H10
+kitty: 10,34
+H5 -- D5
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+S9 -- S13
+kitty: 29,16,4,14,26,27,45,40,46,50
+H7 -- D12
+kitty: 31,23
+D10 -- D7
+kitty: 21,18
+S14 -- C4
+kitty: 51,2
+H8 -- H12
+kitty: 32,36
+C2 -- S4
+kitty: 0,41
+C11 -- D13
+kitty: 9,24
+D4 -- S12
+kitty: 15,49
+H4 -- H9
+kitty: 28,33
+D14 -- C9
+kitty: 25,7
+C7 -- H14
+kitty: 5,38
+S5 -- D6
+kitty: 42,17
+C10 -- D9
+kitty: 8,20
+D8 -- S7
+kitty: 19,44
+- shuffling. . . 2
+- time for an update!
+--- Player One score: 24
+--- Player Two score: 28
+C10 -- S5
+kitty: 8,42
+C9 -- C11
+kitty: 7,9
+S7 -- C6
+kitty: 44,4
+C13 -- D5
+kitty: 11,16
+S10 -- H9
+kitty: 47,33
+D8 -- S4
+kitty: 19,41
+D7 -- S12
+kitty: 18,49
+D14 -- H12
+kitty: 25,36
+H10 -- H4
+kitty: 34,28
+S6 -- S3
+kitty: 43,40
+C12 -- C2
+kitty: 10,0
+C8 -- S13
+kitty: 6,50
+C3 -- S9
+kitty: 1,46
+D9 -- D6
+kitty: 20,17
+D10 -- C14
+kitty: 21,12
+C5 -- D13
+kitty: 3,24
+S11 -- H5
+kitty: 48,29
+D11 -- H14
+kitty: 22,38
+C4 -- S8
+kitty: 2,45
+S14 -- H3
+kitty: 51,27
+H13 -- H8
+kitty: 37,32
+H6 -- H2
+kitty: 30,26
+D2 -- D12
+kitty: 13,23
+S2 -- C7
+kitty: 39,5
+- shuffling. . .
+- time for an update!
+--- Player One score: 28
+--- Player Two score: 24
+C12 -- H11
+kitty: 10,35
+H13 -- H7
+kitty: 37,31
+H12 -- D3
+kitty: 36,14
+C2 -- D4
+kitty: 0,15
+- shuffling. . .
+- time for an update!
+--- Player One score: 30
+--- Player Two score: 22
+H2 -- D10
+kitty: 26,21
+S5 -- C11
+kitty: 42,9
+H9 -- D11
+kitty: 33,22
+H8 -- D13
+kitty: 32,24
+D14 -- C3
+kitty: 25,1
+C10 -- S2
+kitty: 8,39
+H10 -- S12
+kitty: 34,49
+S4 -- S9
+kitty: 41,46
+S10 -- S13
+kitty: 47,50
+D5 -- C4
+kitty: 16,2
+D8 -- C5
+kitty: 19,3
+H3 -- C7
+kitty: 27,5
+S7 -- C14
+kitty: 44,12
+S3 -- S8
+kitty: 40,45
+H4 -- H14
+kitty: 28,38
+H5 -- D4
+kitty: 29,15
+S11 -- C2
+kitty: 48,0
+C13 -- D2
+kitty: 11,13
+H6 -- C8
+kitty: 30,6
+D9 -- D12
+kitty: 20,23
+S14 -- C9
+kitty: 51,7
+C6 -- D7
+kitty: 4,18
+- shuffling. . .
+- time for an update!
+--- Player One score: 24
+--- Player Two score: 28
+D6 -- S12
+kitty: 17,49
+S6 -- S8
+kitty: 43,45
+- shuffling. . .
+- time for an update!
+--- Player One score: 22
+--- Player Two score: 30
+C9 -- S5
+kitty: 7,42
+H7 -- H2
+kitty: 31,26
+D4 -- S9
+kitty: 15,46
+C3 -- D9
+kitty: 1,20
+C13 -- D7
+kitty: 11,18
+C5 -- D12
+kitty: 3,23
+D14 -- H8
+kitty: 25,32
+D8 -- S13
+kitty: 19,50
+C12 -- C6
+kitty: 10,4
+H5 -- S3
+kitty: 29,40
+D5 -- D10
+kitty: 16,21
+C2 -- C7
+kitty: 0,5
+H12 -- D11
+kitty: 36,22
+H11 -- S7
+kitty: 35,44
+D3 -- C14
+kitty: 14,12
+S14 -- C8
+kitty: 51,6
+H13 -- H10
+kitty: 37,34
+S11 -- H14
+kitty: 48,38
+C4 -- S4
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+- shuffling. . .
+H13 -- H6
+kitty: 2,41,39,13,8,28,47,24,37,30
+D11 -- C11
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+- shuffling. . .
+H5 -- C7
+kitty: 22,9,36,25,40,33,27,48,29,5
+C8 -- C5
+kitty: 6,3
+S5 -- C3
+kitty: 42,1
+C13 -- S6
+kitty: 11,43
+H7 -- D9
+kitty: 31,20
+H11 -- S8
+kitty: 35,45
+C6 -- D4
+kitty: 4,15
+C12 -- D10
+kitty: 10,21
+C9 -- S9
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+H8 -- D6
+kitty: 7,46,18,34,26,12,38,0,32,17
+S7 -- S12
+kitty: 44,49
+S14 -- D5
+kitty: 51,16
+- shuffling. . .
+- time for an update!
+--- Player One score: 34
+--- Player Two score: 18
+H4 -- D8
+kitty: 28,19
+S9 -- D3
+kitty: 46,14
+H6 -- S13
+kitty: 30,50
+S8 -- D12
+kitty: 45,23
+- shuffling. . .
+- time for an update!
+--- Player One score: 32
+--- Player Two score: 20
+D5 -- D11
+kitty: 16,22
+S10 -- D9
+kitty: 47,20
+D13 -- C11
+kitty: 24,9
+H14 -- H9
+kitty: 38,33
+D4 -- S13
+kitty: 15,50
+D2 -- S12
+kitty: 13,49
+C4 -- S7
+kitty: 2,44
+H11 -- S8
+kitty: 35,45
+C9 -- H5
+kitty: 7,29
+S4 -- D14
+kitty: 41,25
+D10 -- H12
+kitty: 21,36
+C14 -- D8
+kitty: 12,19
+C5 -- H6
+kitty: 3,30
+H8 -- S3
+kitty: 32,40
+C2 -- H7
+kitty: 0,31
+S2 -- H3
+kitty: 39,27
+C13 -- S11
+kitty: 11,48
+H10 -- D12
+kitty: 34,23
+D7 -- H4
+kitty: 18,28
+C6 -- C7
+kitty: 4,5
+- shuffling. . .
+- time for an update!
+--- Player One score: 30
+--- Player Two score: 22
+H13 -- H3
+kitty: 37,27
+H2 -- D14
+kitty: 26,25
+S6 -- H12
+kitty: 43,36
+C3 -- D2
+kitty: 1,13
+C12 -- D5
+kitty: 10,16
+S14 -- H10
+kitty: 51,34
+C10 -- S2
+kitty: 8,39
+D6 -- S12
+kitty: 17,49
+C8 -- D10
+kitty: 6,21
+S5 -- D4
+kitty: 42,15
+- shuffling. . .
+- time for an update!
+--- Player One score: 32
+--- Player Two score: 20
+H4 -- C7
+kitty: 28,5
+H3 -- S13
+kitty: 27,50
+S11 -- S7
+kitty: 48,44
+S3 -- H6
+kitty: 40,30
+H9 -- C4
+kitty: 33,2
+H10 -- D12
+kitty: 34,23
+S5 -- D11
+kitty: 42,22
+C9 -- C2
+kitty: 7,0
+S9 -- H7
+kitty: 46,31
+D13 -- C6
+kitty: 24,4
+S10 -- S4
+kitty: 47,41
+D4 -- C5
+kitty: 15,3
+- shuffling. . .
+- time for an update!
+--- Player One score: 32
+--- Player Two score: 20
+C10 -- H3
+kitty: 8,27
+D9 -- S5
+kitty: 20,42
+C11 -- D11
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+C3 -- S6
+kitty: 9,22,13,45,39,5,34,28,1,43
+S14 -- H6
+kitty: 51,30
+C12 -- S12
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+C14 -- C8
+kitty: 10,49,19,35,37,17,23,40,12,6
+H5 -- D10
+kitty: 29,21
+D7 -- H12
+kitty: 18,36
+D5 -- D14
+kitty: 16,25
+H8 -- D4
+kitty: 32,15
+C13 -- H2
+kitty: 11,26
+H14 -- C5
+kitty: 38,3
+D3 -- S13
+kitty: 14,50
+- shuffling. . . 2
+- time for an update!
+--- Player One score: 34
+--- Player Two score: 18
+C14 -- H5
+kitty: 12,29
+D8 -- D10
+kitty: 19,21
+H7 -- D3
+kitty: 31,14
+S5 -- D2
+kitty: 42,13
+D9 -- D11
+kitty: 20,22
+H8 -- H10
+kitty: 32,34
+C12 -- C7
+kitty: 10,5
+D4 -- S13
+kitty: 15,50
+H2 -- H4
+kitty: 26,28
+H6 -- S2
+kitty: 30,39
+D13 -- S8
+kitty: 24,45
+S14 -- D14
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+D12 -- H12
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+- shuffling. . .
+C8 -- D9
+kitty: 51,25,38,33,27,43,9,18,23,36,7,2,47,1,16,21,6,20
+S3 -- H8
+kitty: 40,32
+S4 -- H10
+kitty: 41,34
+S7 -- D11
+kitty: 44,22
+C13 -- D4
+kitty: 11,15
+S9 -- S13
+kitty: 46,50
+D6 -- H2
+kitty: 17,26
+C5 -- D8
+kitty: 3,19
+C6 -- H4
+kitty: 4,28
+- shuffling. . .
+- time for an update!
+--- Player One score: 24
+--- Player Two score: 28
+S11 -- H12
+kitty: 48,36
+H11 -- D9
+kitty: 35,20
+H13 -- S3
+kitty: 37,40
+C2 -- S7
+kitty: 0,44
+C10 -- C3
+kitty: 8,1
+S12 -- D12
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+- shuffling. . .
+H7 -- H10
+kitty: 49,23,4,28,25,7,46,31,34
+S3 -- H9
+kitty: 40,33
+H13 -- C5
+kitty: 37,3
+C12 -- D7
+kitty: 10,18
+D9 -- D10
+kitty: 20,21
+S5 -- S13
+kitty: 42,50
+C7 -- C8
+kitty: 5,6
+H2 -- C11
+kitty: 26,9
+H11 -- H3
+kitty: 35,27
+D4 -- H8
+kitty: 15,32
+D3 -- D5
+kitty: 14,16
+D13 -- C4
+kitty: 24,2
+D2 -- S10
+kitty: 13,47
+C13 -- D11
+kitty: 11,22
+C14 -- S14
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+C10 -- S4
+kitty: 12,51,17,1,45,43,38,19,8,41
+- shuffling. . .
+- time for an update!
+--- Player One score: 23
+--- Player Two score: 29
+H5 -- C8
+kitty: 29,6
+H6 -- C9
+kitty: 30,7
+S2 -- S12
+kitty: 39,49
+- shuffling. . .
+- time for an update!
+--- Player One score: 20
+--- Player Two score: 32
+S14 -- H7
+kitty: 51,31
+H13 -- S5
+kitty: 37,42
+C12 -- S11
+kitty: 10,48
+C10 -- C6
+kitty: 8,4
+C14 -- C7
+kitty: 12,5
+S6 -- D14
+kitty: 43,25
+C5 -- S9
+kitty: 3,46
+C4 -- D3
+kitty: 2,14
+C13 -- D10
+kitty: 11,21
+D11 -- D2
+kitty: 22,13
+D13 -- D5
+kitty: 24,16
+H3 -- H4
+kitty: 27,28
+D8 -- H9
+kitty: 19,33
+S4 -- S3
+kitty: 41,40
+D7 -- S7
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+H11 -- S10
+kitty: 18,44,1,17,45,23,32,50,35,47
+H14 -- H2
+kitty: 38,26
+- shuffling. . .
+- time for an update!
+--- Player One score: 32
+--- Player Two score: 20
+H7 -- H12
+kitty: 31,36
+S3 -- C11
+kitty: 40,9
+D2 -- H10
+kitty: 13,34
+C4 -- D4
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+- shuffling. . .
+H8 -- S6
+kitty: 2,15,23,1,45,20,0,46,32,43
+C12 -- D2
+kitty: 10,13
+H2 -- C5
+kitty: 26,3
+S14 -- H12
+kitty: 51,36
+C7 -- S12
+kitty: 5,49
+S5 -- D8
+kitty: 42,19
+D10 -- C9
+kitty: 21,7
+D5 -- H6
+kitty: 16,30
+C14 -- H5
+kitty: 12,29
+D7 -- C8
+kitty: 18,6
+S13 -- H7
+kitty: 50,31
+S11 -- S3
+kitty: 48,40
+S10 -- H4
+kitty: 47,28
+D11 -- H10
+kitty: 22,34
+D3 -- D14
+kitty: 14,25
+H14 -- C11
+kitty: 38,9
+D6 -- S2
+kitty: 17,39
+C6 -- H9
+kitty: 4,33
+S7 -- H3
+kitty: 44,27
+- shuffling. . .
+- time for an update!
+--- Player One score: 38
+--- Player Two score: 14
+C10 -- C6
+kitty: 8,4
+C13 -- D5
+kitty: 11,16
+S4 -- C8
+kitty: 41,6
+D13 -- D14
+kitty: 24,25
+H11 -- H2
+kitty: 35,26
+H13 -- S12
+kitty: 37,49
+- shuffling. . .
+- time for an update!
+--- Player One score: 40
+--- Player Two score: 12
+S14 -- C5
+kitty: 51,3
+H4 -- D8
+kitty: 28,19
+C11 -- C7
+kitty: 9,5
+D12 -- D7
+kitty: 23,18
+H5 -- S5
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+- shuffling. . .
+H8 -- C8
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+C14 -- D14
+!!! WAR !!!
+!!! Adding cards to kitty !!!
+kitty: 29,42,34,45,22,33,14,30,32,6,36,50,2,28,19,24,12,25,16,27,31,41
+FINAL SCORE
+--- Player One score: 52
+--- Player Two score: 0
